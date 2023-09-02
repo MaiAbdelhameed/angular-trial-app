@@ -1,0 +1,8 @@
+[
+    {"name":"ay haga", "capacity": 10, "price": 200.0, "category": "Art"},
+    {"name":"ay haga1", "capacity": 10, "price": 200.0, "category": "Art"},
+    {"name":"ay haga2", "capacity": 10, "price": 200.0, "category": "Art"},
+    {"name":"ay haga3", "capacity": 10, "price": 200.0, "category": "Art"},
+    {"name":"ay haga4", "capacity": 10, "price": 200.0, "category": "Art"},
+    {"name":"ay haga5", "capacity": 10, "price": 200.0, "category": "Art"}
+]

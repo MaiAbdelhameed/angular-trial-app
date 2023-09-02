@@ -11,6 +11,7 @@ import { EmployeeService } from './employee.service';
 import { EventComponent } from './event/event.component';
 import { EventDetailsComponent } from './event-details/event-details.component';
 import { EventsService } from './events.service';
+import { HttpClientModule } from '@angular/common/http';
 
 @NgModule({
   declarations: [
@@ -24,7 +25,8 @@ import { EventsService } from './events.service';
   imports: [
     BrowserModule,
     AppRoutingModule,
-    FormsModule
+    FormsModule,
+    HttpClientModule
   ],
   providers: [EmployeeService, EventsService],
   bootstrap: [AppComponent]
